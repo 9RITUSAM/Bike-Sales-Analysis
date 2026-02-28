@@ -1,0 +1,1 @@
+An interactive Excel dashboard analyzing bike sales data to understand customer behavior and purchasing trends. The project uses Pivot Tables, Charts, and Slicers to visualize insights based on factors like age, income, occupation, and commute distance. Designed to present data in a clear and simple format for quick analysis and decision-making.
